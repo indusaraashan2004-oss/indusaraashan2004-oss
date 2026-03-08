@@ -6,7 +6,7 @@ I am a passionate **Information Systems student** at the Sabaragamuwa University
 ### 🛠️ Skills & Expertise
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,c,c++,cpp,vscode,mongodb,tailwindcss,javascript,notion,NodeMCU,Internet%20of%20Things,arduino&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,c,cpp,vscode,mongodb,tailwindcss,javascript,notion,arduino&theme=dark" />
 </p>
 
 
