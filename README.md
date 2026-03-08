@@ -1,3 +1,8 @@
+# 👋 Hi, I'm Ashan Indusara!
+
+I am a passionate **Information Systems student** at the Sabaragamuwa University of Sri Lanka and a multi-disciplinary professional thriving at the intersection of technology, education, and entrepreneurship.
+
+
 ### 🛠️ Skills & Expertise
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,c,cpp,vscode,mongodb,arduino" />
@@ -24,9 +29,6 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=indusaraashan2004-oss.visitor-badge&left_color=grey&right_color=blue)
 
-# 👋 Hi, I'm Ashan Indusara!
-
-I am a passionate **Information Systems student** at the Sabaragamuwa University of Sri Lanka and a multi-disciplinary professional thriving at the intersection of technology, education, and entrepreneurship.
 
 ---
 
