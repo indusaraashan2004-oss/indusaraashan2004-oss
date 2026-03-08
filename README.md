@@ -6,16 +6,11 @@ I am a passionate **Information Systems student** at the Sabaragamuwa University
 ### 🛠️ Skills & Expertise
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,c,cpp,vscode,mongodb,tailwindcss,javascript,notion,arduino&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,c,c++,cpp,vscode,mongodb,tailwindcss,javascript,notion,NodeMCU,Internet%20of%20Things,arduino&theme=dark" />
 </p>
 
 
-<p align="left">
-  <img src="https://img.shields.io/badge/NodeMCU-%23233142.svg?style=for-the-badge&logo=nodemcu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Internet%20of%20Things-blue?style=for-the-badge&logo=iot&logoColor=white" />
-</p>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_HERE)
