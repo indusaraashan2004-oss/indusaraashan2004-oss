@@ -1,5 +1,7 @@
 ### 🛠️ Skills & Expertise
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php,bootstrap,tailwind,flutter,git,supabase,vscode,vercel,wordpress,figma,ps,ai,pr,ae,au,notion,arduino,cpp" />
+</p>
 <p align="left">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
