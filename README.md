@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Ashan Indusara!
 
-<!--
-**indusaraashan2004-oss/indusaraashan2004-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate **Information Systems student** at the Sabaragamuwa University of Sri Lanka and a multi-disciplinary professional thriving at the intersection of technology, education, and entrepreneurship.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Quick Overview
+* 🎓 **Education:** Pursuing a BSc (Hons) in Information Systems @ SUSL
+* 💼 **Entrepreneurship:** Co-Founder of **UniVerz**
+* 🍎 **Teaching:** ICT Tutor (O/L Seminar & Revision Sessions)
+* 📍 **Location:** Sri Lanka 🇱🇰
+
+### 🛠️ Skills & Expertise
+**Development:** React, Vite, Tailwind CSS, TypeScript
+**Marketing:** Digital Campaigns, Brand Identity, Social Media Strategy
