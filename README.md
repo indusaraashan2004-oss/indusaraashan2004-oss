@@ -4,17 +4,12 @@ I am a passionate **Information Systems student** at the Sabaragamuwa University
 
 
 ### 🛠️ Skills & Expertise
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,c,cpp,vscode,mongodb,arduino" />
+  <img src="https://skillicons.dev/icons?i=js,c,cpp,vscode,mongodb,tailwindcss,javascript,notion,arduino&theme=dark" />
 </p>
-<p align="left">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
-</p>
+
+
 <p align="left">
   <img src="https://img.shields.io/badge/NodeMCU-%23233142.svg?style=for-the-badge&logo=nodemcu&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" />
